@@ -1,3 +1,2 @@
 # Dataset
-
-(https://www.kaggle.com/datasets/simaanjali/diabetes-simple-diagnosis)
+source: https://www.kaggle.com/datasets/simaanjali/diabetes-simple-diagnosis
